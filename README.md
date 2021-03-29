@@ -1,5 +1,5 @@
-# Portfolio-Project
-> Here goes your awesome project description!
+# mixedMessages
+> A JavaScript app that randomly generates a CrossFit related message.
 
 ## Table of contents
 * [General info](#general-info)
@@ -12,15 +12,13 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+This is the first project I've created. It's intended to be a JavaScript app that randomly generates a CrossFit related message. It's a part of the Codecademy full stack development course.
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Javascript ES6
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
@@ -40,10 +38,10 @@ To-do list:
 * Wow improvement to be done 2
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is in progress.
 
 ## Inspiration
 Add here credits. Project inspired by..., based on...
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@joshuakent](josh.kent94@yahoo.co.uk) - feel free to contact me!
