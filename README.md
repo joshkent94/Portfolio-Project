@@ -12,13 +12,15 @@
 * [Contact](#contact)
 
 ## General info
-This is the first project I've created. It's intended to be a JavaScript app that randomly generates a CrossFit related message. It's a part of the Codecademy full stack development course.
+This is the first project I've created. It's intended to be a JavaScript app that randomly generates a CrossFit related message. The message is made up of three sections; who the message relates to, what the message relates to, and the final 'favourite' declaration. It forms part of the Codecademy full-stack development course.
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
 
 ## Technologies
 * Javascript ES6
+* VSCode
+* Git versioning
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
