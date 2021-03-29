@@ -12,10 +12,10 @@
 * [Contact](#contact)
 
 ## General info
-This is the first project I've created. It's intended to be a JavaScript app that randomly generates a CrossFit related message. The message is made up of three sections; who the message relates to, what the message relates to, and the final 'favourite' declaration. It forms part of the Codecademy full-stack development course.
+This is the first project I've created. It's intended to be a JavaScript app that randomly generates a CrossFit related message. The message is made up of three sections; who the message relates to, the subject the message relates to, and the final 'favourite' declaration. It forms part of the Codecademy full-stack development course.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Screenshot of app working](./images/workingScreenshot.png)
 
 ## Technologies
 * Javascript ES6
@@ -23,27 +23,20 @@ This is the first project I've created. It's intended to be a JavaScript app tha
 * Git versioning
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
-
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
+To run the app you will require a command line interface (CLI) and the installation of Node.js, which can be downloaded from https://nodejs.org/en/download/.
 
 ## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+Features ready:
+* The generation of a random message whenever the app is run.
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Build an associated front end for the app.
 
 ## Status
 Project is in progress.
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+This project was inspired by my personal passion for CrossFit and my wanting to put the skills I had learned from the Codecademy course into practice.
 
 ## Contact
 Created by [@joshuakent](josh.kent94@yahoo.co.uk) - feel free to contact me!
